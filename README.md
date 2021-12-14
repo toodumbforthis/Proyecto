@@ -1,4 +1,8 @@
 # Proyecto
+Descripcion:
+
+Problema identificado:
+
 Requerimientos:
 
     
